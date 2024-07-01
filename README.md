@@ -94,3 +94,11 @@ CNNs are deep learning models particularly effective for image and audio classif
 After training and evaluating each model, predictions can be made on new audio signals to classify them as cough or non-cough. Ensure that the trained models are saved for deployment and further use in real-world applications.
 
 Each model type offers distinct advantages and may perform differently depending on the characteristics of your audio data. Experimentation with different models and tuning of hyperparameters will help achieve the best performance for your specific classification task.
+
+
+I have developed an simple web interface using the python streamlit library 
+![Cough Detection Interface using the model_random_forest.pkl model](https://github.com/dpavansekhar/Cough-Classification-Based-on-Machine-Learning-Models/assets/173888818/39dd86e3-765d-4d8f-89da-9e2fc727017b)
+
+## NOTE 
+- To run this interface open command pannel and run "pip  install Random_Forest_Classifier_app.py"
+- If in case in your desktop streamlit library is not installed . Please run "pip install streamlit" in your command pannel.

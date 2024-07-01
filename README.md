@@ -102,3 +102,7 @@ I have developed an simple web interface using the python streamlit library
 ## NOTE 
 - To run this interface open command pannel and run "pip  install Random_Forest_Classifier_app.py"
 - If in case in your desktop streamlit library is not installed . Please run "pip install streamlit" in your command pannel.
+
+## NOTE :
+    - While Using the code change the file paths 
+    - While deployiing the streamlit_app.py and app.py open the file and change the path . So that it can runn efficiently
